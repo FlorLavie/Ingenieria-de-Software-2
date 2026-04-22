@@ -2,8 +2,7 @@ Ingeniería de Software 2 — UNLP
 Carrera: Analista Programador Universitario (APU)
 Facultad de Informática — Universidad Nacional de La Plata
 
-*Este proyecto* consiste en el desarrollo de una aplicación como trabajo práctico de la materia Ingeniería de Software 2 de la Universidad Nacional de La Plata (UNLP).
-El objetivo es aplicar conceptos de ingeniería de software en un entorno colaborativo, simulando un equipo de desarrollo real.
+*Este proyecto* consiste en el desarrollo de una aplicación en un entorno colaborativo, simulando un equipo de desarrollo real.
 
 *Objetivos*
 Diseñar y desarrollar una aplicación funcional
